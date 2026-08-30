@@ -1,0 +1,2 @@
+point_id,point_name,date,hour,air_temperature_c,physics_rail_temp_c,pinn_rail_temp_c,wind_speed_ms,humidity_pct,solar_radiation_wm2,soil_temperature_c,thermal_stress_mpa,risk_level
+12,Washington Union Station,2026-08-01,4,21.5906,15.998006411188717,17.739002,4.2,82.7,0.0,23.6,-21.392904,🟢 Low

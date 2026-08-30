@@ -1,28 +1,22 @@
 # Fortyguard_Hackathon
 
-# 🚀 Rail Thermal Stress Predictor
-## FortyGuard Hackathon 2026
+## Rail Thermal Stress Predictor
+
+### FortyGuard Hackathon 2026
 
 ---
 
-### 📁 Project Structure
-
-| Folder/File | Description |
-|-------------|-------------|
-| `Documentation/` | Main project documentation |
-| `Notebook/` | Complete Colab notebook with code |
-| `Outputs/` | Generated images and CSV files |
-
----
-
-### 📊 Key Files
+### 📁 Project Files (All in Root)
 
 | File | Description |
 |------|-------------|
-| `Documentation/HMPM_Documentation.pdf` | Complete project documentation (20+ pages) |
-| `Notebook/HMPM_Notebook.pdf` | Full code with outputs |
-| `Outputs/pinn_rail_temp_prediction.png` | 4-panel visualization dashboard |
-| `Outputs/thermal_stress_analysis.png` | Thermal stress visualization |
+| `Documentation.pdf` | Complete project documentation (20+ pages) |
+| `Notebook.pdf` | Full code with outputs |
+| `Notebook.ipynb` | Original Colab notebook |
+| `pinn_rail_temp_prediction.png` | 4-panel visualization dashboard |
+| `thermal_stress_analysis.png` | Thermal stress visualization |
+| `pinn_rail_temp_results.csv` | Rail temperature predictions |
+| `thermal_stress_results.csv` | Thermal stress values with risk levels |
 
 ---
 
@@ -39,9 +33,4 @@
 
 - **Name**: Mujahid Gazi
 - **Hackathon**: FortyGuard Hackathon 2026
-
----
-
-### 🏆 Submission Date
-
-August 2026
+- **Date**: August 2026
